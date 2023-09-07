@@ -8,6 +8,7 @@ import Veteran from './Layout/Veteran/Veteran';
 import Contactus from './Layout/Contactus/Contactus';
 import Blog from './Layout/Blog/Blog';
 import Event from './Layout/Webinar/Event';
+import Faq from './Layout/Faq/Faq';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path="/contact" element={<Contactus/>} />
         <Route path="/blogs" element={<Blog/>} />
         <Route path="/event" element={<Event/>} />
+        <Route path="/Faq" element={<Faq/>} />
       </Routes>
       <Footer/>
     </Router>

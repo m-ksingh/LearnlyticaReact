@@ -57,7 +57,7 @@ export const Footer = () => {
                
                 <div class="col-lg-3 col-md-6">
                     <div class="widget widget_contact">
-                        <h4 class="widget-title"><a href="Faq.html">FAQ</a></h4>
+                        <h4 class="widget-title"><a href="Faq">FAQ</a></h4>
                       
                     </div>
                 </div>
